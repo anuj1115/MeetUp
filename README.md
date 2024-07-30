@@ -1,7 +1,7 @@
 
 # MeetUp
 
-Welcome to Neom, a modern video conferencing platform designed to simplify online communication and collaboration. Built with TypeScript, Next.js, Tailwind CSS, ShadCN, and Stream, Neom offers a seamless and intuitive user experience. Whether you need to set up an instant meeting, schedule a future one, save recordings, or host personal meetings, Neom has you covered.
+Welcome to MeetUp, a modern video conferencing platform designed to simplify online communication and collaboration. Built with TypeScript, Next.js, Tailwind CSS, ShadCN, and Stream, MeetUp offers a seamless and intuitive user experience. Whether you need to set up an instant meeting, schedule a future one, save recordings, or host personal meetings, MeetUp has you covered.
 
 
 ## Features
